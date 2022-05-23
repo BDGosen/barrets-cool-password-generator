@@ -4,8 +4,8 @@ This is my password generator. I really like green, if that's not obvious.
 
 The purpose of this password generator is to provide an easy, yet safer means to protect your highly-sensitive data. HTML provides the blueprint, CSS makes it look pretty, and JavaScript handles the actual behavior of the generator.
 
-Here is my Github link to said generator: https://github.com/BDGosen/password-generator
+Here is my Github link to said generator: https://github.com/BDGosen/barrets-cool-password-generator
 
 ![screenshot](/images/generator-screenshot.PNG)
 
-Here is the deployment link! https://bdgosen.github.io/password-generator/
+Here is the deployment link! https://bdgosen.github.io/barrets-cool-password-generator/
